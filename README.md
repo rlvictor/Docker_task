@@ -1,1 +1,1 @@
-![2023-09-17_22-54-13.png](..%2F..%2FUsers%2F%C2%E8%F2%FF%2FYandexDisk%2F%D1%EA%F0%E8%ED%F8%EE%F2%FB%2F2023-09-17_22-54-13.png)
+![2023-09-17_22-54-13](https://github.com/rlvictor/Docker_task/assets/80620786/d93402ab-8218-4074-90fe-b4de61f2e6a6)
